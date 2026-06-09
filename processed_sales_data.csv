@@ -1,0 +1,157 @@
+Date,Month,Vehicle,Units_Sold,Price,Revenue,Profit,Category,Demand,Season
+2025-04-01,April 2025,Destini 125,1,105000,105000,9450,Scooter,Low,Summer
+2025-04-01,April 2025,HF100,2,70000,140000,11200,Commuter Motorcycle,Low,Summer
+2025-04-01,April 2025,Passion+,2,95000,190000,15200,Commuter Motorcycle,Low,Summer
+2025-04-01,April 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Summer
+2025-04-01,April 2025,Pleasure+,0,85000,0,0,Scooter,Low,Summer
+2025-04-01,April 2025,Splendor+,12,90000,1080000,86400,Commuter Motorcycle,High,Summer
+2025-04-01,April 2025,Splendor+ XTEC,2,98000,196000,15680,Commuter Motorcycle,Low,Summer
+2025-04-01,April 2025,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Summer
+2025-04-01,April 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Summer
+2025-04-01,April 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Summer
+2025-04-01,April 2025,Xoom,0,90000,0,0,Scooter,Low,Summer
+2025-04-01,April 2025,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Summer
+2025-05-01,May 2025,Destini 125,1,105000,105000,9450,Scooter,Low,Summer
+2025-05-01,May 2025,HF100,0,70000,0,0,Commuter Motorcycle,Low,Summer
+2025-05-01,May 2025,Passion+,1,95000,95000,7600,Commuter Motorcycle,Low,Summer
+2025-05-01,May 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Summer
+2025-05-01,May 2025,Pleasure+,0,85000,0,0,Scooter,Low,Summer
+2025-05-01,May 2025,Splendor+,13,90000,1170000,93600,Commuter Motorcycle,High,Summer
+2025-05-01,May 2025,Splendor+ XTEC,4,98000,392000,31360,Commuter Motorcycle,Medium,Summer
+2025-05-01,May 2025,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Summer
+2025-05-01,May 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Summer
+2025-05-01,May 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Summer
+2025-05-01,May 2025,Xoom,0,90000,0,0,Scooter,Low,Summer
+2025-05-01,May 2025,Xtreme 125R,1,110000,110000,11000,Sports/Premium Motorcycle,Low,Summer
+2025-06-01,June 2025,Destini 125,0,105000,0,0,Scooter,Low,Summer
+2025-06-01,June 2025,HF100,6,70000,420000,33600,Commuter Motorcycle,Medium,Summer
+2025-06-01,June 2025,Passion+,2,95000,190000,15200,Commuter Motorcycle,Low,Summer
+2025-06-01,June 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Summer
+2025-06-01,June 2025,Pleasure+,0,85000,0,0,Scooter,Low,Summer
+2025-06-01,June 2025,Splendor+,7,90000,630000,50400,Commuter Motorcycle,Medium,Summer
+2025-06-01,June 2025,Splendor+ XTEC,2,98000,196000,15680,Commuter Motorcycle,Low,Summer
+2025-06-01,June 2025,Super Splendor XTEC,1,105000,105000,8400,Commuter Motorcycle,Low,Summer
+2025-06-01,June 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Summer
+2025-06-01,June 2025,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Summer
+2025-06-01,June 2025,Xoom,0,90000,0,0,Scooter,Low,Summer
+2025-06-01,June 2025,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Summer
+2025-07-01,July 2025,Destini 125,1,105000,105000,9450,Scooter,Low,Monsoon
+2025-07-01,July 2025,HF100,3,70000,210000,16800,Commuter Motorcycle,Medium,Monsoon
+2025-07-01,July 2025,Passion+,1,95000,95000,7600,Commuter Motorcycle,Low,Monsoon
+2025-07-01,July 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Monsoon
+2025-07-01,July 2025,Pleasure+,1,85000,85000,7650,Scooter,Low,Monsoon
+2025-07-01,July 2025,Splendor+,4,90000,360000,28800,Commuter Motorcycle,Medium,Monsoon
+2025-07-01,July 2025,Splendor+ XTEC,0,98000,0,0,Commuter Motorcycle,Low,Monsoon
+2025-07-01,July 2025,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Monsoon
+2025-07-01,July 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Monsoon
+2025-07-01,July 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Monsoon
+2025-07-01,July 2025,Xoom,0,90000,0,0,Scooter,Low,Monsoon
+2025-07-01,July 2025,Xtreme 125R,1,110000,110000,11000,Sports/Premium Motorcycle,Low,Monsoon
+2025-08-01,August 2025,Destini 125,3,105000,315000,28350,Scooter,Medium,Monsoon
+2025-08-01,August 2025,HF100,3,70000,210000,16800,Commuter Motorcycle,Medium,Monsoon
+2025-08-01,August 2025,Passion+,2,95000,190000,15200,Commuter Motorcycle,Low,Monsoon
+2025-08-01,August 2025,Pleasure XTEC,2,92000,184000,16560,Scooter,Low,Monsoon
+2025-08-01,August 2025,Pleasure+,1,85000,85000,7650,Scooter,Low,Monsoon
+2025-08-01,August 2025,Splendor+,14,90000,1260000,100800,Commuter Motorcycle,High,Monsoon
+2025-08-01,August 2025,Splendor+ XTEC,2,98000,196000,15680,Commuter Motorcycle,Low,Monsoon
+2025-08-01,August 2025,Super Splendor XTEC,1,105000,105000,8400,Commuter Motorcycle,Low,Monsoon
+2025-08-01,August 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Monsoon
+2025-08-01,August 2025,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Monsoon
+2025-08-01,August 2025,Xoom,0,90000,0,0,Scooter,Low,Monsoon
+2025-08-01,August 2025,Xtreme 125R,1,110000,110000,11000,Sports/Premium Motorcycle,Low,Monsoon
+2025-09-01,September 2025,Destini 125,0,105000,0,0,Scooter,Low,Monsoon
+2025-09-01,September 2025,HF100,4,70000,280000,22400,Commuter Motorcycle,Medium,Monsoon
+2025-09-01,September 2025,Passion+,8,95000,760000,60800,Commuter Motorcycle,High,Monsoon
+2025-09-01,September 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Monsoon
+2025-09-01,September 2025,Pleasure+,1,85000,85000,7650,Scooter,Low,Monsoon
+2025-09-01,September 2025,Splendor+,17,90000,1530000,122400,Commuter Motorcycle,High,Monsoon
+2025-09-01,September 2025,Splendor+ XTEC,11,98000,1078000,86240,Commuter Motorcycle,High,Monsoon
+2025-09-01,September 2025,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Monsoon
+2025-09-01,September 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Monsoon
+2025-09-01,September 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Monsoon
+2025-09-01,September 2025,Xoom,0,90000,0,0,Scooter,Low,Monsoon
+2025-09-01,September 2025,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Monsoon
+2025-10-01,October 2025,Destini 125,1,105000,105000,9450,Scooter,Low,Festive/Autumn
+2025-10-01,October 2025,HF100,3,70000,210000,16800,Commuter Motorcycle,Medium,Festive/Autumn
+2025-10-01,October 2025,Passion+,5,95000,475000,38000,Commuter Motorcycle,Medium,Festive/Autumn
+2025-10-01,October 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Festive/Autumn
+2025-10-01,October 2025,Pleasure+,0,85000,0,0,Scooter,Low,Festive/Autumn
+2025-10-01,October 2025,Splendor+,26,90000,2340000,187200,Commuter Motorcycle,High,Festive/Autumn
+2025-10-01,October 2025,Splendor+ XTEC,7,98000,686000,54880,Commuter Motorcycle,Medium,Festive/Autumn
+2025-10-01,October 2025,Super Splendor XTEC,1,105000,105000,8400,Commuter Motorcycle,Low,Festive/Autumn
+2025-10-01,October 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Festive/Autumn
+2025-10-01,October 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Festive/Autumn
+2025-10-01,October 2025,Xoom,1,90000,90000,8100,Scooter,Low,Festive/Autumn
+2025-10-01,October 2025,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Festive/Autumn
+2025-11-01,November 2025,Destini 125,0,105000,0,0,Scooter,Low,Festive/Autumn
+2025-11-01,November 2025,HF100,5,70000,350000,28000,Commuter Motorcycle,Medium,Festive/Autumn
+2025-11-01,November 2025,Passion+,6,95000,570000,45600,Commuter Motorcycle,Medium,Festive/Autumn
+2025-11-01,November 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Festive/Autumn
+2025-11-01,November 2025,Pleasure+,0,85000,0,0,Scooter,Low,Festive/Autumn
+2025-11-01,November 2025,Splendor+,7,90000,630000,50400,Commuter Motorcycle,Medium,Festive/Autumn
+2025-11-01,November 2025,Splendor+ XTEC,2,98000,196000,15680,Commuter Motorcycle,Low,Festive/Autumn
+2025-11-01,November 2025,Super Splendor XTEC,1,105000,105000,8400,Commuter Motorcycle,Low,Festive/Autumn
+2025-11-01,November 2025,Vida VX2 Plus,1,120000,120000,14400,EV Scooter,Low,Festive/Autumn
+2025-11-01,November 2025,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Festive/Autumn
+2025-11-01,November 2025,Xoom,0,90000,0,0,Scooter,Low,Festive/Autumn
+2025-11-01,November 2025,Xtreme 125R,1,110000,110000,11000,Sports/Premium Motorcycle,Low,Festive/Autumn
+2025-12-01,December 2025,Destini 125,1,105000,105000,9450,Scooter,Low,Winter
+2025-12-01,December 2025,HF100,6,70000,420000,33600,Commuter Motorcycle,Medium,Winter
+2025-12-01,December 2025,Passion+,3,95000,285000,22800,Commuter Motorcycle,Medium,Winter
+2025-12-01,December 2025,Pleasure XTEC,0,92000,0,0,Scooter,Low,Winter
+2025-12-01,December 2025,Pleasure+,0,85000,0,0,Scooter,Low,Winter
+2025-12-01,December 2025,Splendor+,6,90000,540000,43200,Commuter Motorcycle,Medium,Winter
+2025-12-01,December 2025,Splendor+ XTEC,3,98000,294000,23520,Commuter Motorcycle,Medium,Winter
+2025-12-01,December 2025,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Winter
+2025-12-01,December 2025,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Winter
+2025-12-01,December 2025,X Pulse 200,1,180000,180000,18000,Sports/Premium Motorcycle,Low,Winter
+2025-12-01,December 2025,Xoom,0,90000,0,0,Scooter,Low,Winter
+2025-12-01,December 2025,Xtreme 125R,1,110000,110000,11000,Sports/Premium Motorcycle,Low,Winter
+2026-01-01,January 2026,Destini 125,1,105000,105000,9450,Scooter,Low,Winter
+2026-01-01,January 2026,HF100,2,70000,140000,11200,Commuter Motorcycle,Low,Winter
+2026-01-01,January 2026,Passion+,7,95000,665000,53200,Commuter Motorcycle,Medium,Winter
+2026-01-01,January 2026,Pleasure XTEC,1,92000,92000,8280,Scooter,Low,Winter
+2026-01-01,January 2026,Pleasure+,0,85000,0,0,Scooter,Low,Winter
+2026-01-01,January 2026,Splendor+,19,90000,1710000,136800,Commuter Motorcycle,High,Winter
+2026-01-01,January 2026,Splendor+ XTEC,4,98000,392000,31360,Commuter Motorcycle,Medium,Winter
+2026-01-01,January 2026,Super Splendor XTEC,1,105000,105000,8400,Commuter Motorcycle,Low,Winter
+2026-01-01,January 2026,Vida VX2 Plus,1,120000,120000,14400,EV Scooter,Low,Winter
+2026-01-01,January 2026,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Winter
+2026-01-01,January 2026,Xoom,0,90000,0,0,Scooter,Low,Winter
+2026-01-01,January 2026,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Winter
+2026-02-01,February 2026,Destini 125,0,105000,0,0,Scooter,Low,Winter
+2026-02-01,February 2026,HF100,2,70000,140000,11200,Commuter Motorcycle,Low,Winter
+2026-02-01,February 2026,Passion+,9,95000,855000,68400,Commuter Motorcycle,High,Winter
+2026-02-01,February 2026,Pleasure XTEC,1,92000,92000,8280,Scooter,Low,Winter
+2026-02-01,February 2026,Pleasure+,0,85000,0,0,Scooter,Low,Winter
+2026-02-01,February 2026,Splendor+,14,90000,1260000,100800,Commuter Motorcycle,High,Winter
+2026-02-01,February 2026,Splendor+ XTEC,3,98000,294000,23520,Commuter Motorcycle,Medium,Winter
+2026-02-01,February 2026,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Winter
+2026-02-01,February 2026,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Winter
+2026-02-01,February 2026,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Winter
+2026-02-01,February 2026,Xoom,0,90000,0,0,Scooter,Low,Winter
+2026-02-01,February 2026,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Winter
+2026-03-01,March 2026,Destini 125,1,105000,105000,9450,Scooter,Low,Spring
+2026-03-01,March 2026,HF100,3,70000,210000,16800,Commuter Motorcycle,Medium,Spring
+2026-03-01,March 2026,Passion+,4,95000,380000,30400,Commuter Motorcycle,Medium,Spring
+2026-03-01,March 2026,Pleasure XTEC,0,92000,0,0,Scooter,Low,Spring
+2026-03-01,March 2026,Pleasure+,0,85000,0,0,Scooter,Low,Spring
+2026-03-01,March 2026,Splendor+,18,90000,1620000,129600,Commuter Motorcycle,High,Spring
+2026-03-01,March 2026,Splendor+ XTEC,9,98000,882000,70560,Commuter Motorcycle,High,Spring
+2026-03-01,March 2026,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Spring
+2026-03-01,March 2026,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Spring
+2026-03-01,March 2026,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Spring
+2026-03-01,March 2026,Xoom,0,90000,0,0,Scooter,Low,Spring
+2026-03-01,March 2026,Xtreme 125R,2,110000,220000,22000,Sports/Premium Motorcycle,Low,Spring
+2026-04-01,April 2026,Destini 125,0,105000,0,0,Scooter,Low,Summer
+2026-04-01,April 2026,HF100,5,70000,350000,28000,Commuter Motorcycle,Medium,Summer
+2026-04-01,April 2026,Passion+,5,95000,475000,38000,Commuter Motorcycle,Medium,Summer
+2026-04-01,April 2026,Pleasure XTEC,0,92000,0,0,Scooter,Low,Summer
+2026-04-01,April 2026,Pleasure+,0,85000,0,0,Scooter,Low,Summer
+2026-04-01,April 2026,Splendor+,6,90000,540000,43200,Commuter Motorcycle,Medium,Summer
+2026-04-01,April 2026,Splendor+ XTEC,3,98000,294000,23520,Commuter Motorcycle,Medium,Summer
+2026-04-01,April 2026,Super Splendor XTEC,0,105000,0,0,Commuter Motorcycle,Low,Summer
+2026-04-01,April 2026,Vida VX2 Plus,0,120000,0,0,EV Scooter,Low,Summer
+2026-04-01,April 2026,X Pulse 200,0,180000,0,0,Sports/Premium Motorcycle,Low,Summer
+2026-04-01,April 2026,Xoom,0,90000,0,0,Scooter,Low,Summer
+2026-04-01,April 2026,Xtreme 125R,0,110000,0,0,Sports/Premium Motorcycle,Low,Summer
